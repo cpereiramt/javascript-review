@@ -1,0 +1,16 @@
+{
+  "name": "transactions-isolation",
+  "version": "1.0.0",
+  "description": "about transactions and isolations on database",
+  "main": "transaction.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Clayton Pereira",
+  "license": "ISC",
+  "dependencies": {
+    "pg": "^8.11.5",
+    "pg-hstore": "^2.3.4",
+    "sequelize": "^6.37.3"
+  }
+}
