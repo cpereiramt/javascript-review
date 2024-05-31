@@ -4,7 +4,8 @@
   "description": "show the use of semaphores on nodeJS",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js",
+    "semaphore": "node semaphore.js",
+    "mutex" : "node mutex.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
