@@ -1,0 +1,28 @@
+{
+  "name": "semaphores",
+  "version": "1.0.0",
+  "description": "show the use of semaphores on nodeJS",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cpereiramt/javascript-review.git"
+  },
+  "keywords": [
+    "threads",
+    "semaphore",
+    "mutex"
+  ],
+  "author": "Clayton Pereira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cpereiramt/javascript-review/issues"
+  },
+  "homepage": "https://github.com/cpereiramt/javascript-review#readme",
+  "dependencies": {
+    "async-mutex": "^0.5.0"
+  }
+}
